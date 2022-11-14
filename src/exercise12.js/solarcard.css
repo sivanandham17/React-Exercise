@@ -1,0 +1,27 @@
+.card{
+    box-shadow: 5px 10px 10px 5px rgba(221, 245, 5, 0.9);
+    background-color: white;
+    margin: 20px;
+    border-radius: 10px;
+}
+.card img{
+    border-radius: 10px;
+    width: 350px;
+    height: 280px ;
+    border: 2px solid rgba(218, 250, 7, 0.9);
+}
+.container{
+    color: black;
+    font-size: 18px;
+} 
+button{
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 10px;
+}
+.one{
+    display: flex;
+}

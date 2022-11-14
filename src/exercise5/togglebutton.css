@@ -1,0 +1,18 @@
+.toggles{
+    color: white;
+    padding: 10px;
+    background-color: rgb(2, 137, 85);
+    border-radius: 8px;
+    box-shadow: 5px 10px 10px 5px black;
+    margin-top: 70px;
+}
+.tgbut{
+    padding: 10px;
+    color: rgb(253, 72, 72);
+    background-color: white;
+    margin: 10px;
+    width: 100px;
+    font-weight: bold;
+    font-size: large;
+    border-radius: 8px;
+}

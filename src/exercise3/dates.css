@@ -1,0 +1,9 @@
+.dates{
+	display: flex;
+	margin-top: 50px;
+	background-color: rgb(246, 156, 13);
+	border-radius: 10px;
+}
+.d1{
+	margin: 10px;
+}

@@ -1,0 +1,7 @@
+.selected-country{
+    margin-top: 10%;
+    background-color: darkred;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+  }

@@ -1,0 +1,15 @@
+form {
+    background-color: rgb(197, 130, 30);
+    border:3px solid rgb(53, 69, 2);
+    padding: 20px;
+    margin-top: 5%;
+    text-align: center;
+    width: 30%;
+    margin-left: 35%;
+}
+.FormApp{
+    
+    color: rgb(2, 120, 95);
+    font-size: 21px;
+    padding: 20px;
+}
